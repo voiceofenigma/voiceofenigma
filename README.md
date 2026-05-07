@@ -29,7 +29,7 @@ In his current role, he demonstrates strong **leadership capabilities**: managin
 
 His career spans engagements with top-tier clients across critical sectors including banking, insurance, public administration, and energy, confirming his ability to operate in complex, highly regulated environments.
 
-On the **certifications** front, the profile is robust and current: Capgemini L1 Certified Architect, TOGAF 9, ITIL 4 Strategist and Foundation, PRINCE2, and Certified ScrumMaster reflect a rigorous methodological approach that encompasses both architectural governance and agile project delivery.
+On the **certifications** front, the profile is robust and current: TOGAF 9, ITIL 4 Strategist and Foundation, PRINCE2, and Certified ScrumMaster reflect a rigorous methodological approach that encompasses both architectural governance and agile project delivery.
 
 Riccardo is further distinguished by **bilingual fluency** (Italian native, English bilingual), which has enabled him to work in international settings.
 
